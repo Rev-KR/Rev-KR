@@ -1,16 +1,15 @@
-<div align="center">
-  <h1> RevKR's Github </h1>
+### Hi !👋
+안녕하세요! 저는 레브라고해요, 자바를 주로 다루는 개발자입니다!
 
-<div align="center">
+## Skills
 
-<h2 style="margin: 5px 10px;">GitHub Stats</h2>
-<div style="display: flex; align-items: center; justify-content: center;">
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white).![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rev-kr&count_private=true&show_icons=true&hide_border=false)](https://github.com/rev-kr)
-<h2>Programing Langueges</h2>
+## Careers
+* Minecraft Plugin Developer (2022~ing)
 
-<a href="https://oracle.com/java" target="_blank"><img src="https://img.shields.io/badge/java-white.svg?style=for-the-badge&logo=java&logoColor=ba5139" alt="java"/></a>
- 
-<h2>Studying Programing Langueges</h2>
- 
-<a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/kotlin-white?logo=kotlin&style=for-the-badge" alt="kotlin"/></a>
+## Contact
+[![Discord](https://img.shields.io/badge/Discord-revekr-%235865F2?style=for-the-badge&logo=discord)](https://discordapp.com/users/750394205213425774)
+* Email: [revepattern@naver.com](mailto:revepattern@naver.com)
